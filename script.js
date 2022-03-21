@@ -1,4 +1,4 @@
-const bgVideo = document.getElementById("myVideo");
+/* const bgVideo = document.getElementById("myVideo");
 const imgWrapper = document.getElementById("imgWrapper");
 const nav = document.getElementById("nav");
 bgVideo.addEventListener("ended", myHandler, false);
