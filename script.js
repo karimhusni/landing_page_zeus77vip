@@ -8,3 +8,4 @@ function myHandler(e) {
   imgWrapper.style.opacity = 1;
   nav.classList.remove("opacity-0");
 }
+*/
